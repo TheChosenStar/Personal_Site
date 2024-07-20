@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+}
+.About_Me {
+    background-image: url("images/Kirby_BG.jpg");
+    padding-top: 105px;
+    padding-bottom: 210px;
+}
+.Fun_Facts {
+    border: 5px solid grey;
+    display: flex;
+    justify-content: center;
+    background-image: url(images/Night\ Sky.jpg);
+}
+.Boxes {
+    background-image: url(images/Power_Ups.jpg);
+    border: 5px solid grey;
+    background-size: contain;
+    height: 300px;
+}
+.Boxes2 {
+    background-image: url(images/DreamLand.jpg);
+    border: 5px solid grey;
+}
+.Boxes3 {
+    background-image: url(images/Music_Wallpaper.jpg);
+    border: 5px solid grey;
+}
+.Boxes4 {
+    background-image: url(images/Matrix.webp);
+    border: 5px solid grey;
+}
+#facts {
+    height: 100px;
+}
+#facts2 {
+    height: 115px;
+}
+#facts3 {
+    height: 300px;
+}
+h1 {
+    color: yellow;
+    font-size: 50px;
+    padding-bottom: 105px;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    color: rgb(27, 165, 32);
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    margin: 0px;
+    color: rgb(43, 43, 43);
+    display: flex;
+    align-self: center;
+}
+.Box {
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#me {
+    width: 250px;
+    border-radius: 150px;
+    border: 5px solid aqua;
+}
+.meText {
+    background-color: rgb(49, 41, 123);
+    padding: 25px;
+    padding-top: 0px;
+    margin-left: 25px;
+    border:  10px solid aqua;
+    border-radius: 5px;
+    font-size: 30px;
+    color: white;
+}
+li {
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+.Drop {
+    display:flex;
+    flex-direction: column;
+    border: 5px solid grey;
+    background-color: rgb(2, 204, 46);
+}
+.Drop2 {
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    width: 707px;
+    height: 367px;
+    border: 5px solid grey;
+    background-color: rgb(2, 204, 46);
+}
+#NoTop {
+    padding-top: 10px;
+    margin-top: 0px;
+}
+a {
+    text-decoration: none;
+}
+/*Wireframe is https://wireframe.cc/rA5gmf*/
